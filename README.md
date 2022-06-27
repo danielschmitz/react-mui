@@ -1,3 +1,5 @@
-# Minimal React App
+# Minimal React App + Mui
+
+demo: https://danielschmitz.github.io/react-mui
 
 

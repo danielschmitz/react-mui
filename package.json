@@ -2,10 +2,10 @@
   "name": "react-router-mui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielschmitz.github.io/react-router-mui",
+  "homepage": "https://danielschmitz.github.io/react-mui",
   "repository": {
     "type": "git",
-    "url": "git@github.com:danielschmitz/react-router-mui.git"
+    "url": "git@github.com:danielschmitz/react-mui.git"
   },
   "license": "MIT",
   "dependencies": {
