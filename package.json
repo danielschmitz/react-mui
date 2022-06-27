@@ -2,7 +2,14 @@
   "name": "react-router-mui",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://danielschmitz.github.io/react-router-mui",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:danielschmitz/react-router-mui.git"
+  },
+  "license": "MIT",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -10,7 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "react-scripts build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
